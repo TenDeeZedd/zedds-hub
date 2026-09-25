@@ -22,4 +22,4 @@ Before you post, please:
 ## Note
 This repository holds no source code, only the issue tracker and the wiki. The mods themselves are downloaded from their project pages.
 
-Made by **Mr_DeeZedd**.
+Made by **Mr_DeeZedd**. All Zedd's mods are **All Rights Reserved**: you may play them and use them in modpacks (downloaded from their official pages), but not reupload, copy or modify them. See [LICENSE](LICENSE).
