@@ -14,7 +14,6 @@ body:
       options:
         - "Zedd's: Cheese Making"
         - "Zedd's: Wooden Bucket"
-        - A new mod
     validations:
       required: true
   - type: textarea
