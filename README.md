@@ -5,7 +5,7 @@ The home of **Zedd's mods** for Minecraft (NeoForge): the place to report bugs, 
 | Mod | Minecraft | Loader |
 |---|---|---|
 | **Zedd's: Cheese Making** | 1.21.1 | NeoForge |
-| **Zedd's: Wooden Bucket** (bundled with the other mods) | 1.21.1 | NeoForge |
+| **Zedd's: Wooden Bucket** (on its own, and bundled with the Zedd's mods that need it) | 1.21.1 | NeoForge |
 
 ## 📖 Wiki
 How to make cheese, recipes, mice, config and more: **[open the wiki](https://github.com/TenDeeZedd/zedds-hub/wiki)**.
@@ -22,4 +22,4 @@ Before you post, please:
 ## Note
 This repository holds no source code, only the issue tracker and the wiki. The mods themselves are downloaded from their project pages.
 
-Made by **Mr_DeeZedd**. All Zedd's mods are **All Rights Reserved**: you may play them and use them in modpacks (downloaded from their official pages), but not reupload, copy or modify them. See [LICENSE](LICENSE).
+Made by **Mr_DeeZedd**. You're welcome to use Zedd's mods in **modpacks, videos, streams and screenshots**. For anything else, see the **[mod license](MOD-LICENSE.md)**. The contents of this repository and its wiki are covered by [LICENSE](LICENSE).
